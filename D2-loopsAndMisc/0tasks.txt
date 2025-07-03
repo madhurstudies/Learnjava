@@ -1,0 +1,11 @@
+homeworks and briefing
+
+1.) Reverse Numbers (can be done)
+2.) Sum of digit....
+        eg : 123 = 1 + 2 + 3 =6
+3.) Perfect Number 
+        => eg: 6 ke factors are 1,2,3 and 6 = 1+2+3 so perfect Number
+4.) Armstrong Number 
+        => 153 = 1 cube + 5 cube + 3 cube = 1 + 125 + 27 = 153
+5.) Prime Number  
+        check whether a number is prime number or not.
