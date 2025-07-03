@@ -22,6 +22,6 @@ public class exc17 {
         double x2 = (-b + d)/2.0*a;
 
         System.out.println("Roots are :-");
-        System.out.println("[" + x1 + " " + x2 + "]");
+        System.out.println("[" + x1 + " , " + x2 + "]");
     }
 }
